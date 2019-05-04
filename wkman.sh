@@ -2,11 +2,11 @@
 
 # -- base settings START -- #
 
-WKM_VER=0.0.1
+WKM_VER="0.0.2"
 WKM_NAME="wkman"
 WKM_ENTRY="wkman.sh"
 WKM_PROJECT="https://github.com/nickfan/${WKM_NAME}"
-WKM_GET_URL="https://raw.githubusercontent.com/nickfan/wkman/master//get.wkman.sh"
+WKM_GET_URL="https://raw.githubusercontent.com/nickfan/wkman/master/get.wkman.sh"
 WKM_DL_URL="https://raw.githubusercontent.com/nickfan/wkman/master/wkman.sh"
 
 DEFAULT_INSTALL_HOME="${HOME}/.${WKM_NAME}"

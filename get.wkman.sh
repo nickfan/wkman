@@ -3,7 +3,7 @@
 #https://github.com/nickfan/get.wkman.sh
 
 
-WKM_GET_URL="https://raw.githubusercontent.com/nickfan/wkman/master//get.wkman.sh"
+WKM_GET_URL="https://raw.githubusercontent.com/nickfan/wkman/master/get.wkman.sh"
 WKM_DL_URL="https://raw.githubusercontent.com/nickfan/wkman/master/wkman.sh"
 
 _exists() {
